@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.16.2",
+    "circular-json": "^0.3.3",
+    "json-decycle": "^1.0.0",
+    "json-stringify-safe": "^5.0.1",
+    "prettier": "^1.7.4"
+  }
+}
